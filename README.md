@@ -1,1 +1,2 @@
-#simple git-exercise 
+#simple git-exercise
+second update 
